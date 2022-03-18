@@ -1,0 +1,37 @@
+{
+  "login": "user2021",
+  "password": "user2021",
+  "drugStoreId": "175eb9c2-faec-446b-98d6-4283bbdeee92"
+}
+
+
+{
+  "Id": "aaaaa14a-4920-429c-a9c8-84fc92a63a56",
+  "Username": "user2021",
+  "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9zaWQiOiJhYWFhYTE0YS00OTIwLTQyOWMtYTljOC04NGZjOTJhNjNhNTYiLCJ1bmlxdWVfbmFtZSI6InVzZXIyMDIxIiwibmJmIjoxNjEyODYxNzI0LCJleHAiOjE2MTI5NDgxMjQsImlhdCI6MTYxMjg2MTcyNH0.2Wr8tDbSXK6Ju8IvSS9fvzlo6XCFGpn_7juucrCMZwM",
+  "Status": 0,
+  "StatusMessage": null
+}
+
+http://83.69.136.115:25025/
+
+
+e7f55d815bf48f55ab72d4acfc6a69d
+{501b59-24dc-461f-2a72-7f81608f64bc}
+Registry => LocalMachine.SOFTWARE.Classes.{501b59-24dc-461f-2a72-7f81608f64bc} => Value( ADMIN-PC)
+Registry => LocalMachine.SOFTWARE.Classes.{501b59-24dc-461f-2a72-7f81608f64bc} => Value( ADMIN-PC)Path => C:\Users\admin\AppData\Roaming\e7f55d815bf48f55ab72d4acfc6a69d\ADMIN-PC.dll
+
+
+MUNAVVAR MED PHARM
+
+jjaaJpaxtNetztMMyxRLeQ==
+
+Hello World!
+user2021
+
+for Client
+jjaaJpaxtNetztMMyxRLeQ==
+
+for Server
+a13e7d4df150d90e60853f87d5abe94b
+OK
